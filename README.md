@@ -48,38 +48,10 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 ## How to use project <a name="paragraph33"></a>
 
-When the program is started, the main menu will be displayed in order for a user to choose from the options provided. 
+When the program is run, it will compare descriptions of the movie watched by a user and movies's descriptions in the list and will display recommendation which movie to watch next. 
 
-This program will help to get:
+<br><img src="https://user-images.githubusercontent.com/117369262/212550566-60b1bae3-c557-4793-b5e7-358b5ce43eff.png" title="Code button" width="2000"/>
 
-1) Overview of all warehouse items
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20va.png" title="Code button" width="500"/>
-
-2) Capture stock
- 
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20a.png" title="Code button" width="500"/>
-
-
-3) Restock items
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20r.png" title="Code button" width="500"/>
-
-4) Search products by code
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20s.png" title="Code button" width="500"/>
-
-5) Overview of the value of each item in stock
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20vv.png" title="Code button" width="500"/>
-
-6) Find a stock item with the highest quantities
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20h.png" title="Code button" width="500"/>
-
-7) Exit
-
-<br><img src="https://github.com/Olga-creator/finalCapstone/blob/main/pic/Screenshot%20e.png" title="Code button" width="500"/>
 
 ## Contact <a name="paragraph3"></a>
 💃 **Olga Paksevatkina**
@@ -88,7 +60,7 @@ LinkedIn: [Olga Paksevatkina](https://www.linkedin.com/in/olga-paksevatkina-51b6
 
 GitHub: [@Olga-creator](https://github.com/Olga-creator?tab=repositories)
 
-Project Link: https://github.com/Olga-creator/finalCapstone
+Project Link: https://github.com/Olga-creator/WatchNextMovie
 
 ## Special Thanks <a name="paragraph4"></a>
 Thanks to HyperionDev for this great learning experience and for guiding me on my path as a software developer
