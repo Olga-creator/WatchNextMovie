@@ -39,6 +39,3 @@ def next_movie(description):
 # Display result
 next_movie(new_description)
 
-# TODO - Host your solution on a Git host such as GitLab or GitHub.
-# Remember to exclude any venv or virtualenv files from your repo.
-# Add the link for your remote Git repo to a text file named semantic_similarity.txt  ?
